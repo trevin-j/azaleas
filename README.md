@@ -2,6 +2,8 @@
 
 Azaleas (from "z alias") is a **lightweight, modular alias and init command management framework** for Zsh.  
 
+![Zsh Compatible](https://img.shields.io/badge/shell-zsh-brightgreen) ![License](https://img.shields.io/github/license/trevin-j/Azaleas) ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen) ![Zsh Plugin](https://img.shields.io/badge/zsh-plugin-blue)
+
 ## Why Use a Command & Alias Framework?  
 
 Well... maybe you don't need one. And that's cool. Thanks for checking out the repo anyway!  
