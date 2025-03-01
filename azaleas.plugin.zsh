@@ -34,7 +34,6 @@ register_aliases() {
   fi
 }
 
-
 # Check if there are any .zsh files before sourcing
 if [[ -n $(echo "$ALIASES_DIR/"*.zsh(N)) ]]; then
   for file in "$ALIASES_DIR/"*.zsh(N); do
